@@ -13,6 +13,7 @@ public class Main {
         double precoTotalDaCompra = 0.0;
         int quantidadeDeIngredientesComprados;
         int precoIngredientes;
+        int bebida;
 
         System.out.println("_________________________________________________");
         System.out.print("Digite o nome do prato:");
